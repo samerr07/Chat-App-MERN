@@ -21,7 +21,7 @@ connectDatabase()
 //middlewares
 
 const corsOption={
-    origin:'http://localhost:5173',
+    origin:'https://chat-app-mern-ulg2.vercel.app/',
     credentials:true
 };
 server.use(cors(corsOption));

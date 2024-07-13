@@ -9,7 +9,7 @@ const socketServer = http.createServer(server);
 
 const io = new Server(socketServer,{
     cors:{
-        origin:['http://localhost:5173'],
+        origin:['https://chat-app-mern-ulg2.vercel.app/'],
         methods:['GET', 'POST'],
     }
 })

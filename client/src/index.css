@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    /* background: url(../public/backImg.jfif); */
+    background: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+
+::-webkit-scrollbar {
+    /* Customize the scrollbar width */
+    width:6px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    /* Customize the scrollbar track */
+    background-color: aliceblue;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    /* Customize the scrollbar thumb */
+    background: #1b1b1b;
+    border-radius: 10px;
+  }

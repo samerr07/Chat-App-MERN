@@ -1,4 +1,4 @@
-export const BASE_URL = "https://chat-app-mern-swart.vercel.app/api/v1"
+export const BASE_URL = "https://chat-app-mern-two-eosin.vercel.app/api/v1"
 
 
 export const timeSince = (timestamp) => {

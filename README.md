@@ -20,11 +20,11 @@ This is a real-time chat application built using the MERN (MongoDB, Express, Rea
 - **Real-Time Communication**: Socket.IO
 - **Media Storage**: Cloudinary
   
-![Uploading Screenshot (11).png…]()
+
 ![Screenshot (10)](https://github.com/user-attachments/assets/3c8eeb60-b3c2-411e-8579-7f96ebf225d2)
-![Uploading Screenshot (9).png…]()
-![Uploading Screenshot (7).png…]()
-![Uploading Screenshot (8).png…]()
+![Screenshot (8)](https://github.com/user-attachments/assets/f51b92df-1917-4363-a439-fbe5a7fda230)
+![Screenshot (10)](https://github.com/user-attachments/assets/9b1f7081-ebe3-4501-8154-bf4e7d308179)
+![Screenshot (9)](https://github.com/user-attachments/assets/93ab9ece-763c-490a-9079-331587568787)
 
 ## Usage
 

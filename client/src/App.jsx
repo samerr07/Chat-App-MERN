@@ -34,7 +34,7 @@ function App() {
 
   useEffect(()=>{
     if(authUser){
-      const socket = io("http://localhost:8080/",{
+      const socket = io("https://chat-app-mern-one-topaz.vercel.app/",{
         query:{
           userId:authUser._id
         }
